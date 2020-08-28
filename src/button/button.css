@@ -1,0 +1,34 @@
+.numpad {
+    background-color: white;
+    color: black;
+    
+    width: 100%;
+    height: 4rem;
+
+    margin: 0px;
+    padding: 4px 4px 4px 4px;
+    font-weight: 500;
+}
+
+.danger {
+    background-color: rgb(255,70,0);
+    color: white;
+    
+    box-sizing: border-box;
+    border-color: orange;
+    
+    font-size: 1.4em;
+    
+}
+
+.graveDanger {
+    background-color:rgb(250, 50, 50);
+    color: white;
+    
+    box-sizing: border-box;
+    border-color: black;
+    
+    
+    font-size: 1.4em;
+    
+}
